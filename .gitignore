@@ -1,0 +1,11 @@
+tox.ini
+cover/
+build/
+docs/_build
+*.egg-info/
+*.pyc
+*.swp
+*.egg
+env/
+.workon
+dist
