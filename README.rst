@@ -38,6 +38,7 @@ save this file and then in the command line
     $ dbgcode clean f.py
 
 the result is:
+
 .. code-block:: python
 
     x = []
@@ -45,6 +46,7 @@ the result is:
         for j in range(1, 100):
             if i % 3 == 0 and j % 3 == 0:
                 x.append((i, j))
+
 
 LICENSE
 -------
